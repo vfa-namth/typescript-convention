@@ -1,5 +1,6 @@
-#Typscript Conventions
-###General Types
+# Typscript Conventions
+
+### General Types
 
 - Không được sử dụng: `Number`, `String`, `Boolean`, `Symbol` and `Object`. Hãy sử dụng: `number`, `string`, `boolean`, and `symbol`.
 
@@ -13,7 +14,7 @@
   const lastName: string;
   ```
 
-###Variable and Function
+### Variable and Function
 
 - Hãy sử dụng `camelCase` cho tên biến và function
 
